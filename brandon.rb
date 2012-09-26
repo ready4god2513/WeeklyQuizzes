@@ -37,4 +37,4 @@ class FizzBuzz
   
 end
 
-FizzBuzz.new(upto: 100).run
+FizzBuzz.new(upto: 400).run
