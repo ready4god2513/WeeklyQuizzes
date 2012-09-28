@@ -1,0 +1,1 @@
+puts (1..100).map{ |n| [((n % 3 == 0 ? "Fizz" : "") + (n % 5 == 0 ? "Buzz" : "")), n.to_s].delete_if {|k| k.empty?}.first}.join(" ")
