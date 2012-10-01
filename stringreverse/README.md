@@ -4,10 +4,10 @@ Given an input string, reverse all the words. To clarify, input: `Programming is
 
 In this challenge we will use the following string text:
 
-     Have a pick:  twenty six letters  —  no forcing a jumbled quiz! 
+     Have a pick:  twenty six letters  --  no forcing a jumbled quiz! 
 
 Note the extra spaces throughout the string and at the very beginning and end of the string, so please use an assignment such as:
 
-    text = " Have a pick:  twenty six letters  —  no forcing a jumbled quiz! "
+    text = " Have a pick:  twenty six letters  --  no forcing a jumbled quiz! "
 
 
